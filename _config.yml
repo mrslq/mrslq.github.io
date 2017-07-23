@@ -6,12 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Coach Quinny - Movement Method
+email: alex@movementmethod.co.uk
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Coach Quinny is a co founder of Movement Method. Movement Method can help you achieve previously unattained levels of strength and agility. 
+We run workshops based around gymnastics, hand balancing and movement, and offer online distance learning. Coach Quinny also offers bespoke personal training packages. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
