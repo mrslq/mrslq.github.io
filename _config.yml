@@ -9,9 +9,7 @@
 title: Coach Quinny - Movement Method
 email: alex@movementmethod.co.uk
 description: > # this means to ignore newlines until "baseurl:"
-  Coach Quinny is a co founder of Movement Method. Movement Method can help you achieve previously unattained levels of strength and agility. 
-We run workshops based around gymnastics, hand balancing and movement, and offer online distance learning. Coach Quinny 
-also offers bespoke personal training packages. 
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
